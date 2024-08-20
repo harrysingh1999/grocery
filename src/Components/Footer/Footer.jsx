@@ -84,7 +84,7 @@ export default function Footer() {
                 </div>
                 <div className="p-0 flex">
                   <p className="text-1.5 sm:text-[16px] font-semibold text-red-600 w-24">{t("Email")}</p>
-                  <p className="text-1xl sm:text-[16px] text-black ml-2">XXXXX XXXXX</p>
+                  <p className="text-1xl sm:text-[16px] text-black ml-2">XXXXX 35252</p>
                 </div>
               </div>
               <div className="flex items-center">
